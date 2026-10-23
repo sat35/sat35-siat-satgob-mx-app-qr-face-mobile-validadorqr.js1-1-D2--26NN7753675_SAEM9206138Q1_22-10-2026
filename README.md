@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="utf-8">
@@ -10,10 +10,6 @@
         a[href*="github.io"] {
             display: none !important;
         }
-    </style>
-
-        body { margin: 0; background: #fff; display: flex; justify-content: center; }
-        img { max-width: 100%; height: auto; display: block; }
     </style>
 </head>
 <body>
