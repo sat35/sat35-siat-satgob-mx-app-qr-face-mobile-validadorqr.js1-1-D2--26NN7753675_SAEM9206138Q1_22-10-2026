@@ -11,15 +11,6 @@
             display: none !important;
         }
     </style>
-    
-a,
-a:link,
-a:visited,
-a:hover,
-a:active {
-    color: #000 !important;
-    text-decoration: none !important;
-}
 
         body { margin: 0; background: #fff; display: flex; justify-content: center; }
         img { max-width: 100%; height: auto; display: block; }
